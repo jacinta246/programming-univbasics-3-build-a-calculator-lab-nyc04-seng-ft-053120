@@ -4,6 +4,8 @@ puts add
 "#{num2} +#{num1}"
 end
 
+addition
+
 def subtraction(num1, num2)
 
 end
