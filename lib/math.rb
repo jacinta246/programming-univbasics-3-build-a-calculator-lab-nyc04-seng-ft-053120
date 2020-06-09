@@ -1,6 +1,7 @@
 def addition(num1, num2)
-  add = "#{5} + #{4}"
- puts add
+num1=4
+num2=5
+ puts 
  return add
 end
 
