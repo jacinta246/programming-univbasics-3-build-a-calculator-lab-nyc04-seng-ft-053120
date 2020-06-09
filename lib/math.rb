@@ -7,7 +7,7 @@ end
 def subtraction(num1, num2)
   num1=50
   num2=2
-   num2-num1
+   num1-num2
 end
 
 def division(num1, num2)
